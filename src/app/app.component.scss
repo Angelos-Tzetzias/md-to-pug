@@ -1,0 +1,84 @@
+.page-wrapper{
+  padding: 96px;
+}
+
+body{
+  background: #b0a9b9;
+}
+
+.options-form-wrapper {
+  padding: 24px 0;
+}
+
+.checkbox-wrapper{
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+label{
+  padding-left: 12px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-button {
+  
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #7e6767;
+  min-width: 400px;
+  margin-top: 2px;
+  color: white;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+button {
+  margin-right: 16px;
+  padding: 12px;
+  border-radius: 8%;
+  font-size: 16px;
+  min-width: 90px;
+  background-color: #7e6767;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: #333333;
+}
+
+a {
+  color: #3a3ad5;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 1.35em;
+  cursor: pointer;
+}
+
+.file-upload {
+  border-radius: 0%;
+  label {
+    margin: 12px;
+  }
+}
+
+.cta {
+  background: #3a3ad5;
+}
+

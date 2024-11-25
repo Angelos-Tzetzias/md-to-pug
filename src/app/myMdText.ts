@@ -1,0 +1,2 @@
+export const md = `**\[AMENDED AND RESTATED\] RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT**
+THIS \[AMENDED AND RESTATED\] RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT (this “**Agreement**”), is made as of \[\_\_\_\_\_\_\_\_\], 20\[\_\_\], by and among \[\_\_\_\_\_\_\_\_\_\_\_\_\], a Delaware corporation (the “**Company**”), the Investors (as defined below) and the Key Holders (as defined below).`
